@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m @taitailucas
+- 👀 I’m interested in impact programs
+- 🌱 I’m currently learning UI/UX Design
+- 💞️ I’m looking to collaborate on impact startups
 
 <!--
 **taitailucas/taitailucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
